@@ -238,3 +238,13 @@ body {
   color: #003049;
   text-align: justify;
 }
+
+.valentine{
+  position: absolute;
+  bottom: -2200px;
+  width: auto;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 50px;
+  color: #ff5858;
+  text-align: center;
+}
