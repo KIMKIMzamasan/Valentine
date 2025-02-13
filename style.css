@@ -231,7 +231,7 @@ body {
 
 .message{
   position: absolute;
-  bottom: -2500px;
+  bottom: -3000px;
   width: auto;
   font-family: 'Brush Script MT', cursive;
   font-size: 37px;
